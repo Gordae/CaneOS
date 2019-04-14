@@ -1,0 +1,17 @@
+print('666666666 666666666')
+print('666666666 666666666')
+print('666666666 666666666')
+print('666666666 666666666')
+print('                   ')
+print('666666666 666666666')
+print('666666666 666666666')
+print('666666666 666666666')
+print('666666666 666666666')
+print('                   ')
+print('                   ')
+print('       CaneOS      ')
+command = input('>')
+if command == 'usa':
+    print('and CaneOS know that is where you live')
+    print('go to CaneOS.py')
+
