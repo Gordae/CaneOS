@@ -1,5 +1,2 @@
-# CaneOS
-there is 3 files
-cilck CaneOS installer.py then cilck CaneOS setup.py
-then cilck CaneOS.py
-aslo these files needs python
+this OS is only for MacOS
+DO NOT OPEN ROOT IT IS A FILE THAT HELP RUN CANEOS.PY
