@@ -1,2 +1,1 @@
-this OS is only for MacOS
-DO NOT OPEN ROOT IT IS A FILE THAT HELP RUN CANEOS.PY
+You Can Delete Root. It's Not Important.
