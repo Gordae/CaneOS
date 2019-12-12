@@ -1,6 +1,6 @@
 from colorama import *
 from login import login
-import Fixer
+from Fixer import *
 
 login()
 
