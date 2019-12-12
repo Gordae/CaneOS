@@ -1,4 +1,4 @@
-Gordae CaneOS 13.02 download page.
+Gordae CaneOS 14.00 download page.
 
 needed modules for caneOS: 
 
