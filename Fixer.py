@@ -5,7 +5,7 @@ import commanmode
 
 
 def fix():
-    print('Welcome To The fixer of Caneos13')
+    print('Welcome To The fixer of Caneos14')
     print('1 - Safe Mode')
     print('2 - command mode')
 
