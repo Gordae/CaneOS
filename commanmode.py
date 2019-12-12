@@ -26,7 +26,7 @@ def comm():
         if command == "web":
             print(Fore.RED + "WARNING: This Program Can Harm Your PC." + Fore.RESET)
         if command == "about":
-            print('OS: CaneOS 13.02')
-            print('Update Number: 139064281')
+            print('OS: CaneOS 14.00')
+            print('Update Number: Command')
         if command == "reboot":
             login()
