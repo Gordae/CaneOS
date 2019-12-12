@@ -1,6 +1,6 @@
 from colorama import *
-import safemode
-import commanmode
+from safemode import *
+from commanmode import *
 
 
 
