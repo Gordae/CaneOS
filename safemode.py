@@ -5,7 +5,7 @@ def safe():
 
     login()
 
-    print(Fore.LIGHTMAGENTA_EX + "Welcome To CaneOS 13 SafeMode" + Fore.RESET)
+    print(Fore.LIGHTMAGENTA_EX + "Welcome To CaneOS 14 SafeMode" + Fore.RESET)
     print(Fore.LIGHTMAGENTA_EX + "Type help for a list of commands." + Fore.RESET)
     print(
         Fore.LIGHTMAGENTA_EX + "Updates: Now In Python. Added Fixer. Added Safe mode. added command mode" + Fore.RESET)
