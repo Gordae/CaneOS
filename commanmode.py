@@ -14,7 +14,7 @@ def comm():
 
     print('GRANTED')
     print('DONE')
-    print('WELCOME TO CANEOS13 COMMAND MODE')
+    print('WELCOME TO CANEOS14 COMMAND MODE')
 
     while True:
         command = input(Fore.MAGENTA + ">")
