@@ -1,4 +1,4 @@
-Gordae CaneOS 14.00 download page.
+Gordae CaneOS 14.02 download page.
 
 needed modules for caneOS: 
 
@@ -9,6 +9,7 @@ ______________________________________________________________
 remember that this OS needs other OS Platforms to Run This OS.
 and we are not responible for you breaking your computer or OS
 installtion. And We Are not responible for Code Damages.
+And We Will Have CaneOS 15 On 2021.
 
 
 Download If You Agree.
