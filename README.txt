@@ -3,6 +3,7 @@ Gordae CaneOS 15.00 download page.
 needed modules for caneOS: 
 
 * colorama
+* CLWI
 
 ______________________________________________________________
         Agreement:
