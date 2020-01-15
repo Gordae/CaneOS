@@ -9,7 +9,7 @@ ______________________________________________________________
 remember that this OS needs other OS Platforms to Run This OS.
 and we are not responible for you breaking your computer or OS
 installtion. And We Are not responible for Code Damages.
-And We Will Have CaneOS 15 On 2021.
+And We Will Have CaneOS 16 On 2021.
 
 
 Download If You Agree.
