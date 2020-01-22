@@ -1,4 +1,4 @@
-Gordae CaneOS 15.00 download page.
+Gordae CaneOS 16.00 download page.
 
 needed modules for caneOS: 
 
@@ -8,9 +8,8 @@ needed modules for caneOS:
 ______________________________________________________________
         Agreement:
 remember that this OS needs other OS Platforms to Run This OS.
-and we are not responible for you breaking your computer or OS
-installtion. And We Are not responible for Code Damages.
-And We Will Have CaneOS 17.
+and we are not responible for you Breaking Or Changing Code Of OS
+installtion.And We Will Have CaneOS 17.
 
 
 Download If You Agree.
