@@ -16,7 +16,7 @@ You Might Have A BSOD.
 
 How To Install
 
-* Download Contents From This Page. https://github.com/Gordae/CaneOS/archive/master.zip
+* Download The Contents From This Page. https://github.com/Gordae/CaneOS/archive/master.zip
 * Extract The Contents Of CaneOS-master.zip.
 * Open Pycharm, If You Don't Have Pycharm, Install It.
 * Import CaneOS Into Pycharm.
