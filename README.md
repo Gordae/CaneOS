@@ -10,7 +10,7 @@ Reqiurements
 
 EULA
 
-If You Are 6 Or Youger. Ask A Parnent To Help You Install This OS.
+If You Are 6 Or Youger. Ask A Parent To Help You Install This OS.
 It Is Not Recommended To Install CaneOS On C:\Windows\System32.
 You Might Have A BSOD.
 
