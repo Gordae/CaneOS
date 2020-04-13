@@ -17,8 +17,8 @@ You Might Have A BSOD.
 How To Install
 
 * Download The Contents From This Page. https://github.com/Gordae/CaneOS/archive/master.zip
-* Extract The Contents Of CaneOS-master.zip.
+* Extract CaneOS-Master.zip To C:\CaneOS
 * Open Pycharm, If You Don't Have Pycharm, Install It From This Page. https://www.jetbrains.com/pycharm/download You Will Need A Jetbrains Account.
 * Import CaneOS Into Pycharm.
-* Install Colorama.
+* Install Colorama With This Command In The Pycharm Terminal: pip install colorama
 * Your Are Ready! Go Have Fun Messing With CaneOS!
