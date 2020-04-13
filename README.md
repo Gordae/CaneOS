@@ -18,7 +18,7 @@ How To Install
 
 * Download The Contents From This Page. https://github.com/Gordae/CaneOS/archive/master.zip
 * Extract The Contents Of CaneOS-master.zip.
-* Open Pycharm, If You Don't Have Pycharm, Install It.
+* Open Pycharm, If You Don't Have Pycharm, Install It From This Page. https://www.jetbrains.com/pycharm/download You Will Need A Jetbrains Account.
 * Import CaneOS Into Pycharm.
 * Install Colorama.
 * Your Are Ready! Go Have Fun Messing With CaneOS!
